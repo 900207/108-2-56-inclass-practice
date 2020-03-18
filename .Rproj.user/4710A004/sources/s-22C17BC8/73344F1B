@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1792651947",
+    "hash" : "0",
     "id" : "73344F1B",
     "lastKnownWriteTime" : 1583906869,
     "last_content_update" : 1583906869,
     "path" : "~/GitHub/108-2-56-inclass-practice/README.md",
     "project_path" : "README.md",
     "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
