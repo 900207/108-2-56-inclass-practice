@@ -40,3 +40,7 @@ vectorExample[[1]]
 vectorExample[[3]]
 ```
 
+```{r}
+
+```
+
