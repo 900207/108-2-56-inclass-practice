@@ -36,11 +36,7 @@ length(vectorExample)
 ```
 
 ```{r}
-vectorExample[[1]]
-vectorExample[[3]]
-```
-
-```{r}
-
+`commit`<-list(1,2,3)
+print(commit)
 ```
 
